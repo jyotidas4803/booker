@@ -9,6 +9,10 @@ This is a book ranking app that allows users to add books to their list and rate
 - User can sort books by rating
 - User can delete books from their list
 
+## Preview
+
+![image](public/booker(1).png)  ![image](public/booker(2).png)
+
 ## Getting Started
 
 To get started, follow these steps:
