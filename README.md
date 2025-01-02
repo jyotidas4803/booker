@@ -1,45 +1,30 @@
-# Booker App
+# Booker App — Rank Books to Read 📚
 
-This is a book ranking app that allows users to add books to their list and rate them. The app uses Next.js and Tailwind CSS for the frontend and TypeScript for the backend.
-
-## Features
-
-- User can add books to their list
-- User can rate books
-- User can sort books by rating
-- User can delete books from their list
+A simple app built with Next.js, React, and TypeScript for managing and ranking books to read. Users can add books, view a list of books, and sort them based on their preferences.
 
 ## Preview
 
 ![image](public/booker(1).png)  ![image](public/booker(2).png)
 
-## Getting Started
+## Features ✨
 
-To get started, follow these steps:
+- **Add Books**: Add book titles and their respective authors.
+- **View Books**: Display a list of added books with their details.
+- **Sort Books**: Sort the books in ascending order.
+- **Theming**: Supports light and dark modes with theme switching.
+- **Font**: Custom Google font used for a unique look.
+- **UI Components**: Built with **Aceternity UI** and **ShadCN** for sleek and modern user interfaces.
 
-1. Clone the repository:
+## Technologies Used 🔧
 
-    ```bash
-    git clone https://github.com/your-username/booker-app.git
-    ```
-
-2. Install dependencies:
-
-    ```bash
-    npm install
-    ```
-
-3. Start the development server:
-
-    ```bash
-    npm run dev
-    ```
-
-4. Open [http://localhost:3000](http://localhost:3000) in your browser.
-
-## Contributing
-
-Contributions are welcome! If you find a bug or have a suggestion, please open an issue or submit a pull request on the GitHub repository.
+- **Next.js**: A React framework for building static and dynamic websites.
+- **React**: For building the user interface.
+- **TypeScript**: For type safety and better development experience.
+- **Tailwind CSS**: For utility-first styling.
+- **Lucide Icons**: For using vector icons like `Crown`, `ArrowDown10`, and `Cross`.
+- **ThemeProvider**: For managing light/dark mode.
+- **Aceternity UI**: A UI toolkit providing accessible and customizable components for modern web apps.
+- **ShadCN**: A utility-focused component library for building UI components quickly with a consistent design.
 
 ## License
 
